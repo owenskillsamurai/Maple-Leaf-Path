@@ -1,0 +1,115 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<gpx xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns="http://www.topografix.com/GPX/1/1" xsi:schemaLocation="http://www.topografix.com/GPX/1/1 http://www.topografix.com/GPX/1/1/gpx.xsd" version="1.1" creator="http://ridewithgps.com/">
+  <metadata>
+    <name>Woodbine Test Maple Leaf</name>
+    <link href="https://ridewithgps.com/routes/49735957">
+      <text>Woodbine Test Maple Leaf</text>
+    </link>
+    <time>2025-02-16T22:07:49Z</time>
+  </metadata>
+
+  <!-- Start Point -->
+  <wpt lon="-79.30567" lat="43.66304">
+    <name>Start</name>
+    <desc>Starting point of the route</desc>
+    <sym>Flag, Blue</sym>
+    <type>waypoint</type>
+  </wpt>
+
+  <!-- Turn-by-turn Navigation Cues -->
+  <wpt lon="-79.305717" lat="43.66304">
+    <name>Turn left</name>
+    <desc>Turn left onto Stem Upper Left</desc>
+    <sym>Flag, Red</sym>
+    <type>cue</type>
+  </wpt>
+  <wpt lon="-79.305708" lat="43.663232">
+    <name>Turn right</name>
+    <desc>Turn right onto Shoulder Left</desc>
+    <sym>Flag, Red</sym>
+    <type>cue</type>
+  </wpt>
+  <wpt lon="-79.306028" lat="43.663208">
+    <name>Turn left</name>
+    <desc>Turn left onto Shoulder Left Sinus</desc>
+    <sym>Flag, Red</sym>
+    <type>cue</type>
+  </wpt>
+  <wpt lon="-79.305993" lat="43.663298">
+    <name>Turn right</name>
+    <desc>Turn right onto Lower Left Lateral Apex</desc>
+    <sym>Flag, Red</sym>
+    <type>cue</type>
+  </wpt>
+  <wpt lon="-79.306314" lat="43.663479">
+    <name>Turn left</name>
+    <desc>Turn left onto Left Lateral Apex</desc>
+    <sym>Flag, Red</sym>
+    <type>cue</type>
+  </wpt>
+  <wpt lon="-79.306267" lat="43.663633">
+    <name>Turn left</name>
+    <desc>Turn left onto Upper Left Lateral Apex</desc>
+    <sym>Flag, Red</sym>
+    <type>cue</type>
+  </wpt>
+  <wpt lon="-79.306065" lat="43.663692">
+    <name>Turn left</name>
+    <desc>Turn left onto Primary Left Sinus</desc>
+    <sym>Flag, Red</sym>
+    <type>cue</type>
+  </wpt>
+  <wpt lon="-79.30588" lat="43.663569">
+    <name>Turn right</name>
+    <desc>Turn right onto Primary Left Lobe Apex</desc>
+    <sym>Flag, Red</sym>
+    <type>cue</type>
+  </wpt>
+  <wpt lon="-79.305941" lat="43.663809">
+    <name>Turn left</name>
+    <desc>Turn left onto Primary Apex</desc>
+    <sym>Flag, Red</sym>
+    <type>cue</type>
+  </wpt>
+  <wpt lon="-79.305679" lat="43.663232">
+    <name>Turn right</name>
+    <desc>Turn right onto Stem Lower Right</desc>
+    <sym>Flag, Red</sym>
+    <type>cue</type>
+  </wpt>
+
+  <!-- End Point -->
+  <wpt lon="-79.30567" lat="43.66304">
+    <name>End</name>
+    <desc>End of route</desc>
+    <sym>Flag, Green</sym>
+    <type>waypoint</type>
+  </wpt>
+
+  <!-- Route Track -->
+  <trk>
+    <name>Woodbine Test Maple Leaf</name>
+    <trkseg>
+      <trkpt lat="43.66304" lon="-79.30567"/>
+      <trkpt lat="43.66304" lon="-79.305717"/>
+      <trkpt lat="43.663232" lon="-79.305708"/>
+      <trkpt lat="43.663208" lon="-79.306028"/>
+      <trkpt lat="43.663298" lon="-79.305993"/>
+      <trkpt lat="43.663479" lon="-79.306314"/>
+      <trkpt lat="43.663633" lon="-79.306267"/>
+      <trkpt lat="43.663692" lon="-79.306065"/>
+      <trkpt lat="43.663569" lon="-79.305880"/>
+      <trkpt lat="43.663809" lon="-79.305941"/>
+      <trkpt lat="43.663935" lon="-79.305693"/>
+      <trkpt lat="43.663809" lon="-79.305445"/>
+      <trkpt lat="43.663569" lon="-79.305506"/>
+      <trkpt lat="43.663692" lon="-79.305321"/>
+      <trkpt lat="43.663633" lon="-79.305120"/>
+      <trkpt lat="43.663479" lon="-79.305072"/>
+      <trkpt lat="43.663298" lon="-79.305393"/>
+      <trkpt lat="43.663208" lon="-79.305359"/>
+      <trkpt lat="43.663232" lon="-79.305679"/>
+      <trkpt lat="43.66304" lon="-79.30567"/>
+    </trkseg>
+  </trk>
+</gpx>

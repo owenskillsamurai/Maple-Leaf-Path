@@ -1,0 +1,161 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns="http://www.opengis.net/kml/2.2" xmlns:gx="http://www.google.com/kml/ext/2.2">
+    <Document id="1">
+        <Placemark id="3">
+            <name>Stem Lower Right    &amp; 2</name>
+            <Point id="2">
+                <coordinates>-79.3781608,43.6484936,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="5">
+            <name>Stem Lower Left</name>
+            <Point id="4">
+                <coordinates>-79.378647,43.6484936,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="7">
+            <name>Stem Upper Left</name>
+            <Point id="6">
+                <coordinates>-79.37855210000001,43.6504223,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="9">
+            <name>Shoulder Left</name>
+            <Point id="8">
+                <coordinates>-79.3819022,43.650182,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="11">
+            <name>Shoulder Left Sinus</name>
+            <Point id="10">
+                <coordinates>-79.3815369,43.651088300000005,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="13">
+            <name>Lower Left Lateral Apex</name>
+            <Point id="12">
+                <coordinates>-79.3849,43.6529,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="15">
+            <name>Lower Left Sinus</name>
+            <Point id="14">
+                <coordinates>-79.383691,43.6532375,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="17">
+            <name>Left Lateral Apex</name>
+            <Point id="16">
+                <coordinates>-79.3844047,43.6544435,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="19">
+            <name>Upper Left Sinus</name>
+            <Point id="18">
+                <coordinates>-79.3827303,43.654178900000005,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="21">
+            <name>Upper Left Lateral Apex</name>
+            <Point id="20">
+                <coordinates>-79.3822922,43.6550339,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="23">
+            <name>Primary Left Sinus</name>
+            <Point id="22">
+                <coordinates>-79.3803552,43.653798200000004,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="25">
+            <name>Primary Left Lobe Apex</name>
+            <Point id="24">
+                <coordinates>-79.381,43.6562057,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="27">
+            <name>Primary Left Lobe Sinus</name>
+            <Point id="26">
+                <coordinates>-79.3797364,43.6559357,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="29">
+            <name>Primary Apex</name>
+            <Point id="28">
+                <coordinates>-79.3784,43.6574648,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="31">
+            <name>Primary Right Lobe Sinus</name>
+            <Point id="30">
+                <coordinates>-79.3770636,43.6559357,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="33">
+            <name>Primary Right Lobe Apex</name>
+            <Point id="32">
+                <coordinates>-79.3758,43.6562057,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="35">
+            <name>Primary Right Sinus</name>
+            <Point id="34">
+                <coordinates>-79.3764448,43.653798200000004,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="37">
+            <name>Upper Right Lateral Apex</name>
+            <Point id="36">
+                <coordinates>-79.3745078,43.6550339,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="39">
+            <name>Upper Right Sinus</name>
+            <Point id="38">
+                <coordinates>-79.3740697,43.654178900000005,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="41">
+            <name>Right Lateral Apex</name>
+            <Point id="40">
+                <coordinates>-79.37239530000001,43.6544435,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="43">
+            <name>Lower Right Sinus</name>
+            <Point id="42">
+                <coordinates>-79.373109,43.6532366,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="45">
+            <name>Lower Right Lateral Apex</name>
+            <Point id="44">
+                <coordinates>-79.3719,43.6529,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="47">
+            <name>Shoulder Right Sinus</name>
+            <Point id="46">
+                <coordinates>-79.3752631,43.651088300000005,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="49">
+            <name>Shoulder Right</name>
+            <Point id="48">
+                <coordinates>-79.3748978,43.650182,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="51">
+            <name>Stem Upper Right</name>
+            <Point id="50">
+                <coordinates>-79.3782479,43.6504214,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="53">
+            <name>Stem Lower Right 1</name>
+            <Point id="52">
+                <coordinates>-79.3781738,43.6484936,0.0</coordinates>
+            </Point>
+        </Placemark>
+    </Document>
+</kml>

@@ -1,0 +1,137 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<gpx xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns="http://www.topografix.com/GPX/1/1" xsi:schemaLocation="http://www.topografix.com/GPX/1/1 http://www.topografix.com/GPX/1/1/gpx.xsd" version="1.1" creator="http://ridewithgps.com/">
+  <metadata>
+    <name>Woodbine Test Maple Leaf</name>
+    <link href="https://ridewithgps.com/routes/49735893">
+      <text>Woodbine Test Maple Leaf</text>
+    </link>
+    <time>2025-02-16T21:54:09Z</time>
+  </metadata>
+
+  <!-- Waypoints for Navigation Cues -->
+  <wpt lat="43.66304" lon="-79.30567">
+    <name>Start</name>
+    <desc>Starting point of the route</desc>
+  </wpt>
+  <wpt lat="43.66304" lon="-79.305717">
+    <name>Turn left</name>
+    <desc>Turn left onto Stem Upper Left</desc>
+    <type>course</type>
+  </wpt>
+  <wpt lat="43.663232" lon="-79.305708">
+    <name>Turn right</name>
+    <desc>Turn right onto Shoulder Left</desc>
+    <type>course</type>
+  </wpt>
+  <wpt lat="43.663208" lon="-79.306028">
+    <name>Turn left</name>
+    <desc>Turn left onto Shoulder Left Sinus</desc>
+    <type>course</type>
+  </wpt>
+  <wpt lat="43.663298" lon="-79.305993">
+    <name>Turn right</name>
+    <desc>Turn right onto Lower Left Lateral Apex</desc>
+    <type>course</type>
+  </wpt>
+  <wpt lat="43.663479" lon="-79.306314">
+    <name>Turn left</name>
+    <desc>Turn left onto Left Lateral Apex</desc>
+    <type>course</type>
+  </wpt>
+  <wpt lat="43.663633" lon="-79.306267">
+    <name>Turn left</name>
+    <desc>Turn left onto Upper Left Lateral Apex</desc>
+    <type>course</type>
+  </wpt>
+  <wpt lat="43.663692" lon="-79.306065">
+    <name>Turn left</name>
+    <desc>Turn left onto Primary Left Sinus</desc>
+    <type>course</type>
+  </wpt>
+  <wpt lat="43.663569" lon="-79.305880">
+    <name>Turn right</name>
+    <desc>Turn right onto Primary Left Lobe Apex</desc>
+    <type>course</type>
+  </wpt>
+  <wpt lat="43.663809" lon="-79.305941">
+    <name>Turn left</name>
+    <desc>Turn left onto Primary Apex</desc>
+    <type>course</type>
+  </wpt>
+  <wpt lat="43.663935" lon="-79.305693">
+    <name>Turn left</name>
+    <desc>Turn left onto Primary Right Lobe Apex</desc>
+    <type>course</type>
+  </wpt>
+  <wpt lat="43.663809" lon="-79.305445">
+    <name>Turn left</name>
+    <desc>Turn left onto Primary Right Sinus</desc>
+    <type>course</type>
+  </wpt>
+  <wpt lat="43.663569" lon="-79.305506">
+    <name>Turn right</name>
+    <desc>Turn right onto Upper Right Lateral Apex</desc>
+    <type>course</type>
+  </wpt>
+  <wpt lat="43.663692" lon="-79.305321">
+    <name>Turn left</name>
+    <desc>Turn left onto Right Lateral Apex</desc>
+    <type>course</type>
+  </wpt>
+  <wpt lat="43.663633" lon="-79.305120">
+    <name>Turn left</name>
+    <desc>Turn left onto Lower Right Lateral Apex</desc>
+    <type>course</type>
+  </wpt>
+  <wpt lat="43.663479" lon="-79.305072">
+    <name>Turn left</name>
+    <desc>Turn left onto Shoulder Right Sinus</desc>
+    <type>course</type>
+  </wpt>
+  <wpt lat="43.663298" lon="-79.305393">
+    <name>Turn right</name>
+    <desc>Turn right onto Shoulder Right</desc>
+    <type>course</type>
+  </wpt>
+  <wpt lat="43.663208" lon="-79.305359">
+    <name>Turn left</name>
+    <desc>Turn left onto Stem Upper Right</desc>
+    <type>course</type>
+  </wpt>
+  <wpt lat="43.663232" lon="-79.305679">
+    <name>Turn right</name>
+    <desc>Turn right onto Stem Lower Right</desc>
+    <type>course</type>
+  </wpt>
+  <wpt lat="43.66304" lon="-79.30567">
+    <name>End</name>
+    <desc>End of route</desc>
+  </wpt>
+
+  <!-- Track -->
+  <trk>
+    <name>Woodbine Test Maple Leaf</name>
+    <trkseg>
+      <trkpt lat="43.66304" lon="-79.30567"/>
+      <trkpt lat="43.66304" lon="-79.305717"/>
+      <trkpt lat="43.663232" lon="-79.305708"/>
+      <trkpt lat="43.663208" lon="-79.306028"/>
+      <trkpt lat="43.663298" lon="-79.305993"/>
+      <trkpt lat="43.663479" lon="-79.306314"/>
+      <trkpt lat="43.663633" lon="-79.306267"/>
+      <trkpt lat="43.663692" lon="-79.306065"/>
+      <trkpt lat="43.663569" lon="-79.305880"/>
+      <trkpt lat="43.663809" lon="-79.305941"/>
+      <trkpt lat="43.663935" lon="-79.305693"/>
+      <trkpt lat="43.663809" lon="-79.305445"/>
+      <trkpt lat="43.663569" lon="-79.305506"/>
+      <trkpt lat="43.663692" lon="-79.305321"/>
+      <trkpt lat="43.663633" lon="-79.305120"/>
+      <trkpt lat="43.663479" lon="-79.305072"/>
+      <trkpt lat="43.663298" lon="-79.305393"/>
+      <trkpt lat="43.663208" lon="-79.305359"/>
+      <trkpt lat="43.663232" lon="-79.305679"/>
+      <trkpt lat="43.66304" lon="-79.30567"/>
+    </trkseg>
+  </trk>
+</gpx>

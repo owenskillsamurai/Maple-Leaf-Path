@@ -1,0 +1,67 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<gpx xmlns="http://www.topografix.com/GPX/1/1" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.topografix.com/GPX/1/1 http://www.topografix.com/GPX/1/1/gpx.xsd" version="1.1" creator="gpx.py -- https://github.com/tkrajina/gpxpy">
+  <trk>
+    <trkseg>
+      <trkpt lat="35.8783" lon="-119.89350775776384">
+        <name>Stem Lower Right    &amp; 2</name>
+      </trkpt>
+      <trkpt lat="35.8783" lon="-120.0179">
+        <name>Stem Lower Left</name>
+      </trkpt>
+      <trkpt lat="36.455824254401726" lon="-119.99362023079348">
+        <name>Stem Upper Left</name>
+      </trkpt>
+      <trkpt lat="36.38386952928495" lon="-120.85072934374152">
+        <name>Shoulder Left</name>
+      </trkpt>
+      <trkpt lat="36.655249335249735" lon="-120.75726886227532">
+        <name>Shoulder Left Sinus</name>
+      </trkpt>
+      <trkpt lat="37.197739453826806" lon="-121.61770397100508">
+        <name>Lower Left Lateral Apex</name>
+      </trkpt>
+      <trkpt lat="37.65992055335969" lon="-121.49098353172172">
+        <name>Left Lateral Apex</name>
+      </trkpt>
+      <trkpt lat="37.83670819259792" lon="-120.95050921719299">
+        <name>Upper Left Lateral Apex</name>
+      </trkpt>
+      <trkpt lat="37.46669381961912" lon="-120.4549358457174">
+        <name>Primary Left Sinus</name>
+      </trkpt>
+      <trkpt lat="38.18758853754941" lon="-120.61990523649048">
+        <name>Primary Left Lobe Apex</name>
+      </trkpt>
+      <trkpt lat="38.56460973769314" lon="-119.9547060801474">
+        <name>Primary Apex</name>
+      </trkpt>
+      <trkpt lat="38.18758853754941" lon="-119.28950692380434">
+        <name>Primary Right Lobe Apex</name>
+      </trkpt>
+      <trkpt lat="37.46669381961912" lon="-119.45447631457742">
+        <name>Primary Right Sinus</name>
+      </trkpt>
+      <trkpt lat="37.83670819259792" lon="-118.95890294310183">
+        <name>Upper Right Lateral Apex</name>
+      </trkpt>
+      <trkpt lat="37.65992055335969" lon="-118.41842862857308">
+        <name>Right Lateral Apex</name>
+      </trkpt>
+      <trkpt lat="37.197739453826806" lon="-118.29170818928972">
+        <name>Lower Right Lateral Apex</name>
+      </trkpt>
+      <trkpt lat="36.655249335249735" lon="-119.1521432980195">
+        <name>Shoulder Right Sinus</name>
+      </trkpt>
+      <trkpt lat="36.38386952928495" lon="-119.05868281655329">
+        <name>Shoulder Right</name>
+      </trkpt>
+      <trkpt lat="36.45555476104923" lon="-119.91579192950134">
+        <name>Stem Upper Right</name>
+      </trkpt>
+      <trkpt lat="35.8783" lon="-119.89683375354556">
+        <name>Stem Lower Right 1</name>
+      </trkpt>
+    </trkseg>
+  </trk>
+</gpx>
